@@ -8,7 +8,7 @@ import wordanalytics from '@/public/wordanalytics.png';
 
 import { TNavigationLinkModel } from '@/models/lib.model';
 
-export const NavigationLink: TNavigationLinkModel[] = [
+export const NavigationLinks: TNavigationLinkModel[] = [
   {
     name: 'Home',
     hash: '#home',
